@@ -15,3 +15,7 @@ Furthermore, Notes App allows users to share their notes. This feature facilitat
 
 ## Screenshots
 
+<img src="./screenshot/img01.png" width="30%" height="30%">
+<img src="./screenshot/img02.png" width="30%" height="30%">
+<img src="./screenshot/img03.png" width="30%" height="30%">
+<img src="./screenshot/img04.png" width="30%" height="30%">
