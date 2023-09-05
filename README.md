@@ -13,3 +13,5 @@ The application includes a robust search functionality that enables users to qui
 Furthermore, Notes App allows users to share their notes. This feature facilitates collaboration and information sharing among individuals or teams, making it easy to distribute and collaborate on projects, tasks, and ideas.
 
 
+## Screenshots
+
